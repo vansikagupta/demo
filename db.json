@@ -1,7 +1,9 @@
-"users": [
-  { "email": "vansikagupta@gmail.com", "password": "Post 1" },
-  { "email": "vansikagupta@gmail.com", "password": "Post 1" },
-  { "email": "vansikagupta@gmail.com", "password": "Post 1" },
-  { "email": "vansikagupta@gmail.com", "password": "Post 1" },
-  { "email": "vansikagupta@gmail.com", "password": "Post 1" }
-]
+{
+  "users": [
+    { "email": "vansikagupta@gmail.com", "password": "Post 1" },
+    { "email": "vansikagupta@gmail.com", "password": "Post 1" },
+    { "email": "vansikagupta@gmail.com", "password": "Post 1" },
+    { "email": "vansikagupta@gmail.com", "password": "Post 1" },
+    { "email": "vansikagupta@gmail.com", "password": "Post 1" }
+  ]
+}
